@@ -1,0 +1,6 @@
+C:\Users\Karlo\source\repos\raupjc-hw1\IntegerList\bin\Debug\IntegerList.exe.config
+C:\Users\Karlo\source\repos\raupjc-hw1\IntegerList\bin\Debug\IntegerList.exe
+C:\Users\Karlo\source\repos\raupjc-hw1\IntegerList\bin\Debug\IntegerList.pdb
+C:\Users\Karlo\source\repos\raupjc-hw1\IntegerList\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Karlo\source\repos\raupjc-hw1\IntegerList\obj\Debug\IntegerList.exe
+C:\Users\Karlo\source\repos\raupjc-hw1\IntegerList\obj\Debug\IntegerList.pdb
